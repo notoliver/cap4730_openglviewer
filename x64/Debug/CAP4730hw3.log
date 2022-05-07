@@ -1,0 +1,94 @@
+﻿  main.cpp
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(113,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(114,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(115,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(116,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(117,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(118,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(120,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(121,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(122,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(123,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(124,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(125,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(127,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(128,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(129,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(130,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(131,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(132,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\main.cpp(233,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CAP4730hw3.vcxproj -> C:\Users\olive\Desktop\oliver\school\8\comp graph\opengl viewer\CAP4730hw3\x64\Debug\CAP4730hw3.exe
